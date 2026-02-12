@@ -1,0 +1,5 @@
+homepage: "https://businessleague.com"
+documentation: "https://plugins.businessleague.com"
+versions:
+  - sha: 6cb34bfc6af322a7c0be8ab9db6e2d470b12358c
+    changeNotes: Initial Version
